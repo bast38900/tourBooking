@@ -1,0 +1,17 @@
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/bin/Debug/net8.0/BackOffice
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/bin/Debug/net8.0/BackOffice.deps.json
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/bin/Debug/net8.0/BackOffice.runtimeconfig.json
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/bin/Debug/net8.0/BackOffice.dll
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/bin/Debug/net8.0/BackOffice.pdb
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/obj/Debug/net8.0/BackOffice.csproj.AssemblyReference.cache
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/obj/Debug/net8.0/BackOffice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/obj/Debug/net8.0/BackOffice.AssemblyInfoInputs.cache
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/obj/Debug/net8.0/BackOffice.AssemblyInfo.cs
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/obj/Debug/net8.0/BackOffice.csproj.CoreCompileInputs.cache
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/obj/Debug/net8.0/BackOffice.csproj.Up2Date
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/obj/Debug/net8.0/BackOffice.dll
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/obj/Debug/net8.0/refint/BackOffice.dll
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/obj/Debug/net8.0/BackOffice.pdb
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/obj/Debug/net8.0/BackOffice.genruntimeconfig.cache
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/obj/Debug/net8.0/ref/BackOffice.dll

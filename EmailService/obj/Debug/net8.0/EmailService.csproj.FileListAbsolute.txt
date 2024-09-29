@@ -1,0 +1,17 @@
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/bin/Debug/net8.0/EmailService
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/bin/Debug/net8.0/EmailService.deps.json
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/bin/Debug/net8.0/EmailService.runtimeconfig.json
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/bin/Debug/net8.0/EmailService.dll
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/bin/Debug/net8.0/EmailService.pdb
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/obj/Debug/net8.0/EmailService.csproj.AssemblyReference.cache
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/obj/Debug/net8.0/EmailService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/obj/Debug/net8.0/EmailService.AssemblyInfoInputs.cache
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/obj/Debug/net8.0/EmailService.AssemblyInfo.cs
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/obj/Debug/net8.0/EmailService.csproj.CoreCompileInputs.cache
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/obj/Debug/net8.0/EmailSer.199DDF96.Up2Date
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/obj/Debug/net8.0/EmailService.dll
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/obj/Debug/net8.0/refint/EmailService.dll
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/obj/Debug/net8.0/EmailService.pdb
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/obj/Debug/net8.0/EmailService.genruntimeconfig.cache
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/EmailService/obj/Debug/net8.0/ref/EmailService.dll

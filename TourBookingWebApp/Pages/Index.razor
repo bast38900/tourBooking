@@ -1,0 +1,75 @@
+﻿@page "/"
+@inject RabbitMqService RabbitMqService
+
+<h3>Tour Selection</h3>
+<EditForm Model="@bookingModel" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    
+
+    <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; max-width: 400px; margin: 0 auto;">
+        <div style="margin-bottom: 15px;">
+            <label for="name">Name:</label>
+            <InputText @bind-Value="@bookingModel.Name"/>
+        </div>
+
+        <div style="margin-bottom: 15px;">
+            <label for="name">Email:</label>
+            <InputText @bind-Value="@bookingModel.Email"/>
+        </div> 
+
+        <div style="margin-bottom: 15px;">
+            <label for="tour">Tours:</label>
+            <InputSelect @bind-Value="@bookingModel.SelectedTour">
+                <option value="">Choose</option>
+                @foreach (var tour in tours)
+                {
+                    <option value="@tour">@tour</option>
+                }
+            </InputSelect>
+        </div>
+
+       <div style="margin-bottom: 15px;">
+            <div>
+                <InputCheckbox @bind-Value="@isBook" /> Book
+            </div>
+            <div>
+                <InputCheckbox @bind-Value="@isCancel" /> Cancel
+            </div>
+        </div>
+
+        <button style="background-color: #FF00FF" type="submit">Submit</button>
+    </div>
+</EditForm>
+
+@code {
+    private BookingModel bookingModel = new BookingModel();
+    private bool isBook = false;
+    private bool isCancel = false;
+    private string[] tours = { "Bornholm", "London", "Hartzen" };
+
+    private async Task HandleValidSubmit()
+    {
+        // Set the action based on checkboxes
+        if (isBook && !isCancel)
+        {
+            bookingModel.Action = "booked";
+        }
+        else if (!isBook && isCancel)
+        {
+            bookingModel.Action = "cancelled";
+        }
+        
+        var message = $"Name: {bookingModel.Name} || Email: {bookingModel.Email} || Tour: {bookingModel.SelectedTour}";
+        RabbitMqService.SendMessage(message, bookingModel.Action);
+        await Task.CompletedTask;
+    }
+
+    public class BookingModel
+    {
+        public string Name { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
+        public string SelectedTour { get; set; } = string.Empty;
+        public string Action { get; set; } = string.Empty;
+    }
+}

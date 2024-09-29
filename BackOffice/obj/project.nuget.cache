@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BemaKLMKs1RRyhTXiTS0Bin1FiPi9mMOr5xo8Z6sL43s/F9HXfiXOja1Qqef3/9rOtrGVnVHD4UYPu3dxO8AYg==",
+  "success": true,
+  "projectFilePath": "/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/BackOffice/BackOffice.csproj",
+  "expectedPackageFiles": [
+    "/Users/pentiam1pro/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/pentiam1pro/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/pentiam1pro/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

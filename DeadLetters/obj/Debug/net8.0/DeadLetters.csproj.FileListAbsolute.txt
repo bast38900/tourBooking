@@ -1,0 +1,17 @@
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/obj/Debug/net8.0/DeadLetters.csproj.AssemblyReference.cache
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/obj/Debug/net8.0/DeadLetters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/obj/Debug/net8.0/DeadLetters.AssemblyInfoInputs.cache
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/obj/Debug/net8.0/DeadLetters.AssemblyInfo.cs
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/obj/Debug/net8.0/DeadLetters.csproj.CoreCompileInputs.cache
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/bin/Debug/net8.0/DeadLetters
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/bin/Debug/net8.0/DeadLetters.deps.json
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/bin/Debug/net8.0/DeadLetters.runtimeconfig.json
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/bin/Debug/net8.0/DeadLetters.dll
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/bin/Debug/net8.0/DeadLetters.pdb
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/obj/Debug/net8.0/DeadLett.4A66E332.Up2Date
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/obj/Debug/net8.0/DeadLetters.dll
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/obj/Debug/net8.0/refint/DeadLetters.dll
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/obj/Debug/net8.0/DeadLetters.pdb
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/obj/Debug/net8.0/DeadLetters.genruntimeconfig.cache
+/Users/pentiam1pro/projects/UCL/system_integration/tourBooking/DeadLetters/obj/Debug/net8.0/ref/DeadLetters.dll
